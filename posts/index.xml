@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on DunkLee&#39;s personal website</title>
+    <link>https://guannandunkli.github.io/portfolio/posts/</link>
+    <description>Recent content in Posts on DunkLee&#39;s personal website</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 09 Dec 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://guannandunkli.github.io/portfolio/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Forum-demo website</title>
+      <link>https://guannandunkli.github.io/portfolio/posts/forum-demo-website/</link>
+      <pubDate>Mon, 09 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://guannandunkli.github.io/portfolio/posts/forum-demo-website/</guid>
+      <description>github code: https://github.com/GuannanDunkLi/react-demo
+ This is an demo website link.
+  home page:     detail page:      Using technics:
+  react
+ react-transistion-group react-router-dom    redux
+ redux-immutable redux-thunk    </description>
+    </item>
+    
+    <item>
+      <title>Android project</title>
+      <link>https://guannandunkli.github.io/portfolio/posts/andrioid-project/</link>
+      <pubDate>Fri, 25 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://guannandunkli.github.io/portfolio/posts/andrioid-project/</guid>
+      <description>github code: https://github.com/GuannanDunkLi/MobileProject
+ video presentation:    Using technics:
+ android studio spring boot (back-end &amp;amp; restFul APIs) aws &amp;amp; docker (deploy back-end to my own server &amp;amp; using S3 to store uploading images)  </description>
+    </item>
+    
+    <item>
+      <title>Distributed-Shopping website</title>
+      <link>https://guannandunkli.github.io/portfolio/posts/distributed-shopping-website/</link>
+      <pubDate>Sun, 09 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://guannandunkli.github.io/portfolio/posts/distributed-shopping-website/</guid>
+      <description>github code: https://github.com/GuannanDunkLi/Distributed-Shopping-Website
+ front-end demo website: http://www.lgnecommerce.ml/
+ video presentation:      back-end admin demo website: http://manage.lgnecommerce.ml/
+ video presentation:      Using technics:
+ vue spring boot spring cloud (micro-services architecture) distributed file system (FDFS) elasticsearch rabbit mq redis nectar (deploy to my free server in the university) nginx docker  </description>
+    </item>
+    
+  </channel>
+</rss>

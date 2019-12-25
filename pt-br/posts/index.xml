@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on 蹲坑李的个人主页</title>
+    <link>https://guannandunkli.github.io/portfolio/pt-br/posts/</link>
+    <description>Recent content in Posts on 蹲坑李的个人主页</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 09 Dec 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://guannandunkli.github.io/portfolio/pt-br/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>仿简书网站</title>
+      <link>https://guannandunkli.github.io/portfolio/pt-br/posts/forum-demo-website/</link>
+      <pubDate>Mon, 09 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://guannandunkli.github.io/portfolio/pt-br/posts/forum-demo-website/</guid>
+      <description>github 代码: https://github.com/GuannanDunkLi/react-demo
+ 这是 代码连接.
+  主页面:     详情页:      使用技术:
+  react
+ react-transistion-group react-router-dom    redux
+ redux-immutable redux-thunk    </description>
+    </item>
+    
+    <item>
+      <title>安卓项目</title>
+      <link>https://guannandunkli.github.io/portfolio/pt-br/posts/andrioid-project/</link>
+      <pubDate>Fri, 25 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://guannandunkli.github.io/portfolio/pt-br/posts/andrioid-project/</guid>
+      <description>github 代码: https://github.com/GuannanDunkLi/MobileProject
+ 视频演示:    使用的技术:
+ android studio spring boot (后端 &amp;amp; restFul APIs) aws &amp;amp; docker (后端的部署 &amp;amp; 使用S3来存储和读取上传的图片)  </description>
+    </item>
+    
+    <item>
+      <title>分布式电商网站</title>
+      <link>https://guannandunkli.github.io/portfolio/pt-br/posts/distributed-shopping-website/</link>
+      <pubDate>Sun, 09 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://guannandunkli.github.io/portfolio/pt-br/posts/distributed-shopping-website/</guid>
+      <description>github 代码: https://github.com/GuannanDunkLi/Distributed-Shopping-Website
+ 前端门户网站: http://www.lgnecommerce.ml/
+ 视频演示:      后台管理网站: http://manage.lgnecommerce.ml/
+ 视频演示:      使用技术:
+ vue spring boot spring cloud (微服务框架) distributed file system (FDFS) elasticsearch rabbit mq redis nectar (部署在学校提供的免费服务器里) nginx docker  </description>
+    </item>
+    
+  </channel>
+</rss>
